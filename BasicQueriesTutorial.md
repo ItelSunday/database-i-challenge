@@ -1,5 +1,6 @@
 # Writing basic SQL Queries against a prepopulated database using Google Chrome
-- VisitSQL Try Editor at W3Schools[https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top]
+![Visit SQL Try Editor](https://www.w3schools.com/Sql/tryit.asp?filename=trysql_select_top)
+
 
 ## To view the Database and Table
 - In chrome browser,
