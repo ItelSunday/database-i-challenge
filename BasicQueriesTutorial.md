@@ -7,7 +7,11 @@
 - Find the tool `Application` 
 
 - On the left panel, `Storage > Web SQL > W3SchoolsDemoDatabase`
-
+.
+.
+.
+.
+.
 
 ## Write SQL queries for the following requirements:
 
